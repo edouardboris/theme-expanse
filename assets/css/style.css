@@ -269,7 +269,7 @@ header h1 {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 1.75rem;
-  color: #ffffff;
+  color: #0d6386;
   float: left;
   width: 50%;
   margin: 0;
@@ -277,7 +277,7 @@ header h1 {
   line-height: 1.75rem;
 }
 header h1 a {
-  color: #ffffff;
+  color: #0d6386;
 }
 header h1 a:hover {
   color: #37cca2;
@@ -299,7 +299,7 @@ header ul li a {
   padding-bottom: 6px;
   font-family: 'Roboto';
   font-weight: 400;
-  color: #ffffff;
+  color: #0d6386;
 }
 header ul li a:hover {
   color: #37cca2;
@@ -838,7 +838,7 @@ a.btn.btn-mini:hover {
   transition: all 0.2s ease-in-out;
   display: inline-block;
   background-color: #afb7b5;
-  color: #fff;
+  color: #0d6386;
   padding: 1px 10px 1px 10px;
   -webkit-border-radius: 15px;
   -moz-border-radius: 15px;
@@ -1059,7 +1059,7 @@ div.posts div.item .post-content .post-pdf .pdf-fullscreen {
   border: 0;
 }
 div.posts div.item .post-content .post-pdf .pdf-fullscreen:hover {
-  color: #fff;
+  color: #0d6386;
   -moz-opacity: 1;
   -khtml-opacity: 1;
   -webkit-opacity: 1;
@@ -1268,7 +1268,7 @@ h3.tag-header {
   margin: 0;
 }
 .login input.input-submit {
-  color: #fff;
+  color: #0d6386;
   border: 0;
   background-color: #2eb18d;
   -webkit-border-radius: 5px;
