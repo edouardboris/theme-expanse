@@ -827,6 +827,7 @@ a.btn.btn-mini:hover {
 }
 .post-tags li {
   list-style-type: none;
+  color: #0d6386;
   display: inline-block;
   margin-right: 10px;
 }
