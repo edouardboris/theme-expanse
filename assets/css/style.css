@@ -267,14 +267,14 @@ header img.rainbow {
 header h1 {
   font-family: 'Roboto';
   font-weight: 700;
-  text-transform: uppercase;
+  
   font-size: 1.75rem;
   color: #052735;
   float: left;
   width: 50%;
   margin: 0;
   padding: 0;
-  line-height: 1.75rem;
+  line-height: 2.75rem;
 }
 header h1 a {
   color: #052735;
@@ -622,7 +622,7 @@ a.btn {
   color: #ffffff;
   cursor: pointer;
   padding: 15px 30px 15px 30px;
-  text-transform: uppercase;
+  
   background-color: #f76f4f;
   font-size: 0.9rem;
 }
