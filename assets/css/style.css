@@ -426,6 +426,7 @@ body.short-header header {
 }
 .bio {
   display: block;
+  background-image: url({{ site.avatar }}); 
   position: absolute;
   top: -40px;
   left: 50%;
