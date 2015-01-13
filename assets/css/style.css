@@ -448,6 +448,7 @@ body.short-header header {
 }
 .bio .user-avatar img {
   display: block;
+  background-image: url({{ site.avatar }});  
   width: 80px;
   height: 80px;
   border: 5px solid #ffffff;
