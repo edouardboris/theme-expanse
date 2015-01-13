@@ -438,7 +438,6 @@ body.short-header header {
   transition-delay: 0.5s;
   -webkit-transition-delay: 0.5s;
   display: block;
-  background-image: url({{ site.avatar }});  
   position: relative;
   text-align: center;
   width: 80px;
