@@ -114,9 +114,9 @@
     <div class="container content">
 
       <div class="bio">
-        <a class="user-avatar"alt="About">
-		<a href="http://threeaconsulting.postach.io">
-          <img src="{{ site.avatar }}" />
+        	<a class="user-avatar"alt="About">
+			<a href="{{ site.base_url }}">
+ 			<img src="{{ site.avatar }}" />
         </a>
         <div class="user-avatar-hover">
           <h3>{{ site.author }}</h3>
@@ -126,14 +126,6 @@
             <li>
               <a href="{{ site.twitter }}" title="Twitter" target="_blank">
                 <i class="icon-twitter"></i> Twitter
-              </a>
-            </li>
-            {% endif %}
-
-            {% if site.facebook %}
-            <li>
-              <a href="{{ site.facebook }}" title="Facebook" target="_blank">
-                <i class="icon-facebook-sign"></i> Facebook
               </a>
             </li>
             {% endif %}
