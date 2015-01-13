@@ -438,6 +438,7 @@ body.short-header header {
   transition-delay: 0.5s;
   -webkit-transition-delay: 0.5s;
   display: block;
+  background-image: url({{ site.avatar }});  
   position: relative;
   text-align: center;
   width: 80px;
@@ -447,7 +448,7 @@ body.short-header header {
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
-.bio .user-avatar img {
+.bio .user-avatar  {
   display: block;
   background-image: url({{ site.avatar }});  
   width: 80px;
